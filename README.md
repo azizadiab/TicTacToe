@@ -12,7 +12,7 @@ This is a simple 2-player Tic Tac Toe game built with Windows Forms using C#.
 2. Build and run the project
 
 ## 🖼 Demo
-![Tic Tac Toe Screenshot](https://github.com/azizadiab/TicTacToe/blob/main/Tactoc.png?raw=true)
+![Tic Tac Toe Screenshot](raw.githubusercontent.com/azizadiab/TicTacToe/blob/main/Tactoc.png?raw=true)
 
 ## 📌 Author
 Aziza Abdel Hamid Diab
